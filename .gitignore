@@ -1,3 +1,4 @@
 .vscode/
+dist
 npm-debug.log
 error.log
